@@ -1,0 +1,20 @@
+.Parent {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  color: white;
+  font-size: 9px;
+  padding: 50px;
+}
+
+.flexItem {
+  padding: 40px;
+}
+
+.flexItem img {
+  width: 400px;
+}
