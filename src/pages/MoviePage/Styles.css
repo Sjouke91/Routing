@@ -1,0 +1,31 @@
+.Parent {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  color: white;
+  font-size: 9px;
+  padding: 50px;
+}
+
+.details {
+  padding-left: 60px;
+  justify-content: right;
+  text-align: center;
+}
+
+.details h1 {
+  font-size: 30px;
+}
+
+.details h2 {
+  font-size: 20px;
+}
+
+.details p {
+  width: 300px;
+  font-size: 20px;
+  color: white;
+}
